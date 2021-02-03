@@ -4,7 +4,7 @@
           "id": "0",
           "cardHolderName": "Ananya",
           "cardNo": "1234", 
-          "cardExpDate": "5-12-2029", 
+          "cardExpDate": "2029-12-5", 
           "cardSecCode": "123", 
           "cardAmount": "1000"
       },
@@ -12,7 +12,7 @@
           "id": "1",
           "cardHolderName": "Aditya", 
           "cardNo": "4567", 
-          "cardExpDate": "4-2-2030", 
+          "cardExpDate": "2030-04-01", 
           "cardSecCode": "789", 
           "cardAmount": "1500"
       }
